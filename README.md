@@ -1,6 +1,6 @@
 # Policy Warehouse
 
-A healthcare policy document management system that uses AI to extract and structure policy information from PDFs.
+A healthcare policy document management system that uses AI to extract and structure policy information from PDFs. Generated using GitHub spec-kit
 
 ## Features
 
